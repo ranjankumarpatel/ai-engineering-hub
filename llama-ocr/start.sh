@@ -1,0 +1,1 @@
+venv/Scripts/streamlit run C:/github/ai-engineering-hub/llama-ocr/app.py
